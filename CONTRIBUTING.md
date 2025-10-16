@@ -66,8 +66,8 @@ Example:
 - Go to your **forked** repository on GitHub.
 - Click “Compare & pull request.”
 - In the PR form:
-  - Confirm the base repository is the original project (e.g., CareTechUCI/skin-cancer-ai)
-  - Confirm the head repository is your fork (yourusername/skin-cancer-ai)
+  - Confirm the base repository is the original project (CareTechUCI/general-project-fall25.git)
+  - Confirm the head repository is your fork (yourusername/yourforkedrepositoryname)
   - Add a short title and description of your changes.
 - Click “Create Pull Request.”
 - Tag your reviewer (e.g., @TechLead, @President).
