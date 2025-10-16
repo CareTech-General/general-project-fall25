@@ -92,20 +92,21 @@ forked repository with the main one.
 **Sync** your forked repository to the main repository by running these commands:
 
 1. Add the main CareTech repo as an “upstream” remote (only needs to be done once):
+
 ```git remote add upstream https://github.com/CareTech-General/general-project-fall25.git```
 
 
-2. Fetch the latest updates from the main repo:
+3. Fetch the latest updates from the main repo:
 ```git fetch upstream```
 
 
-3. Switch to your local main branch:
+4. Switch to your local main branch:
 ```git checkout main```
 
 
-4. Merge the updates from upstream into your main:
+5. Merge the updates from upstream into your main:
 ```git merge upstream/main```
 
 
-5. Push those synced changes to your fork on GitHub:
+6. Push those synced changes to your fork on GitHub:
 ```git push origin main```
