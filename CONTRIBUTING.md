@@ -49,7 +49,7 @@ Before pushing, make sure your code:
   - Runs without errors
   - Doesn’t break existing functionality
 
-## Step 5: Add and Commit Your Changes
+## Step 5: Add/Stage, Commit, and Push Your Changes
 
 Once your edits are ready, stage and commit them:
 
@@ -57,6 +57,9 @@ Once your edits are ready, stage and commit them:
 - Before making any commits, you must **stage** your changes which basically lets Git know which changes you actually want to 'save'/commit
 
 **Commit:** ```git commit -m "Add short, clear message describing your changes"```
+
+**Push** ```git push```
+- Be careful of merge conflicts! Make sure your branch is up to date by using ```git pull``` before doing git push as you might receive an error.
 
 Example:
 ```git commit -m "Added image compression function for uploads```
