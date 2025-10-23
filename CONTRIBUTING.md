@@ -72,6 +72,7 @@ Example:
   - Confirm the base repository is the original project (CareTechUCI/general-project-fall25.git)
   - Confirm the head repository is your fork (yourusername/yourforkedrepositoryname)
   - Add a short title and description of your changes.
+  - **Do not add "Closes #12**. We will have multiple people submit to the same issue so you can simply say **"Part of #12** which means your PR is related to Git Issue #12.
 - Click “Create Pull Request.”
 - Tag your reviewer (e.g., @TechLead, @President).
 - If you think it is necessary, you can also add photos as well!
