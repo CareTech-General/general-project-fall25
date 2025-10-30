@@ -1,0 +1,2 @@
+There is a class imbalance, there are 1349 normal vs 3883 pneumonia images in one reported split.
+The images vary in resolution and orientation so we will need to standardize size and possibly normalize intensities as a part of preprocessing.
