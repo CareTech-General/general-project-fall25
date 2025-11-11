@@ -1,0 +1,9 @@
+There are significantly more images in the "Pneumonia" class 
+than in the "Normal" class (3875 in Pneumonia, 1341 in Normal)
+
+Pneumonia images show the lungs as more opaque and white in certain parts (indicating fluid)
+while the normal images have clear lungs. Normal pictures show the black background in higher 
+contrast with the bones than in the pneumonia images.
+
+There are a lot of different image resolutions which means they have to be resized to
+uniform dimensions during preproccessing.
